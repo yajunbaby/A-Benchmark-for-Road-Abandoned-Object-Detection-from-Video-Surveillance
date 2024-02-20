@@ -6,3 +6,5 @@ At present, we only released 1000 images and labels for object detection task, a
 
 Released dataset can be seen in Baidu Netdisk.
 
+Link: https://pan.baidu.com/s/1MdjOxZ2TQ-5PX_cB6PJQYg Code:5tGb
+
